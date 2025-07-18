@@ -26,5 +26,5 @@ This is a Spring Boot microservice that processes and enriches order data by com
 - Lombok
 - Redis 
 
-## Folder Structure
+
 
