@@ -21,10 +21,10 @@ This is a Spring Boot microservice that processes and enriches order data by com
 - Spring Data JPA
 - REST APIs
 - PostgreSQL
-- Docker (optional)
+- Docker 
 - Gson
 - Lombok
-- Redis (optional)
+- Redis 
 
 ## Folder Structure
 
