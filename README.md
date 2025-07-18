@@ -16,7 +16,7 @@ This is a Spring Boot microservice that processes and enriches order data by com
 
 ## Tech Stack
 
-- Java 17+
+- Java 
 - Spring Boot
 - Spring Data JPA
 - REST APIs
